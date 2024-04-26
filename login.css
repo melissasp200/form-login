@@ -77,7 +77,8 @@ form a {
 }
 
 .login a:hover {
-  background: #140e1802 color: rgba(188, 145, 236, 0.2);
+  background: #140e1802;
+  color: rgba(188, 145, 236, 0.2);
   border-radius: 5px;
   box-shadow: 0 0 5px #391b69, 0 0 25px #391b69, 0 0 50px #391b69, 0 0 100px #391b69;
 }
